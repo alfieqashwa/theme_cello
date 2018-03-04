@@ -6,7 +6,10 @@
     'author': 'Alfie Qashwa',
 
     'data': [
+        'views/layout.xml',
+        'views/pages.xml',
     ],
     'category': 'Theme/Creative',
     'depends': ['website'],
+    'application': True,
 }
